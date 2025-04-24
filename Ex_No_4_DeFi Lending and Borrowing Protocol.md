@@ -97,6 +97,5 @@ Directly related to DeFi protocols like Aave and Compound.
 ![alt text](block-4.2.png)
 ## Borrow:
 ![alt text](block-4.3.png)
-
 # RESULT : 
 The decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed succesfully.
