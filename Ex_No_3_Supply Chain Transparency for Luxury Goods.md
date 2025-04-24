@@ -81,8 +81,8 @@ Teaches real-world supply chain use cases.
 ## Transaction
 ![alt text](block-3.2.png)
 ## Verification
-
 ![alt text](block-3.3.png)
+
 
 # RESULT : 
 A smart contract that tracks the supply chain of luxury goods and ensuring authenticity is successfully executed.
