@@ -91,22 +91,20 @@ Inspired by NIST’s post-quantum cryptography competition.
 # OUTPUT:
 
 ## SENDER ACCOUNT REGISTERATION OUTPUT
-![alt text](<Screenshot 2025-05-05 142807-1.png>)
+![alt text](8-1.png)
 
 ## RECEIVER ACCOUNT REGISTERATION OUTPUT
-![alt text](<Screenshot 2025-05-05 142702.png>)
+![alt text](8-2.png)
 
 ## SENDER BALANCE OUTPUT
-![alt text](<Screenshot 2025-05-05 142946.png>)
-
+![alt text](8-3.png)
 ## GENERATE SIGNATURE
-![alt text](<Screenshot 2025-05-05 143128.png>)
-
+![alt text](8-4.png)
 ## SENDER TRANSFER AMOUNT TO RECEIVER
-![alt text](<Screenshot 2025-05-05 143216.png>)
+![alt text](8-5.png)
 
 ## RECEIVER BALANCE AFTER TRANSACTION
-![alt text](<Screenshot 2025-05-05 143245.png>)
+![alt text](8-6.png)
 
 # RESULT: 
 
