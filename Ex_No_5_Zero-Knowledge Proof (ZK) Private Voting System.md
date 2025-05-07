@@ -67,7 +67,7 @@ contract ZKVoting {
 ![BLOCKCHAIN-5 4](https://github.com/user-attachments/assets/fd4e5120-ced1-4e68-bb37-3936d746fd91)
 ![BLOCKCHAIN-5 5](https://github.com/user-attachments/assets/6123988e-079d-4387-a357-d44723ad992e)
 ![BLOCKCHAIN-5 6](https://github.com/user-attachments/assets/cb0a1215-cfaa-4389-a045-5e2e2fa86bf3)
-[BLOCKCHAIN-5 7](https://github.com/user-attachments/assets/973a50d6-7775-4435-9f09-a5f30c96b58c)
+![BLOCKCHAIN-5 7](https://github.com/user-attachments/assets/973a50d6-7775-4435-9f09-a5f30c96b58c)
 ![BLOCKCHAIN-5 8](https://github.com/user-attachments/assets/0f324ca7-c21a-460e-baab-22d7c8a2c1e7)
 
 # RESULT: 
