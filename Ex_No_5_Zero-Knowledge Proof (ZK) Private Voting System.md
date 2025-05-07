@@ -71,5 +71,5 @@ contract ZKVoting {
 ![BLOCKCHAIN-5 8](https://github.com/user-attachments/assets/0f324ca7-c21a-460e-baab-22d7c8a2c1e7)
 
 # RESULT: 
-The ZK Private Voting System enables voters to prove their vote is valid without revealing it, ensuring privacy and integrity. It prevents double voting and allows public verification of the final tally.
+Thus,The ZK Private Voting System enables voters to prove their vote is valid without revealing it, ensuring privacy and integrity. It prevents double voting and allows public verification of the final tally.
 
